@@ -1,9 +1,10 @@
 <h2 align="center" dir="auto"> Hi, I’m Coty 👋 </h2>
 
-- 🌱 I’m currently learning DSA on [Leetcode](https://leetcode.com/)
-- 👀 Playing around with Python and Bash scripting/automation
+- I'm currently working with [Magnolia Development]([url](https://github.com/magnolia-development)) on some awesome projects!
+  - [Foster Cooperative Arizona](https://www.fostercooperative.org/) Foster Cooperative is an open-sourced online community powered by Foster Arizona
+- Having too much fun with Bash scripting
 - :speech_balloon: Ask me about [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [React](https://reactjs.org/)
-- 💞️ I’m looking to collaborate on web or mobile applications using JavaScript and related libraries.
+- 💞️ I’m looking to collaborate on web or mobile applications using primarily JavaScript and related libraries. But I'm open to learning anything!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/cotyj), or [Email](mailto:coty.janeway@gmail.com)
 
 <br/>
